@@ -1,0 +1,2 @@
+# C sharp Practice 
+WELCOME FIRST C# REPOSITORY
