@@ -1,19 +1,19 @@
 # introduction to C#
 
 ## Topics
--1.1 Objects
--1.2 The Program Development Process
--1.8 Getting Started with Visual Studio
--2.1 Getting Started with Forms and Controls
--2.2 Creating the G U I for Your First Visual C# Application
--2.3 Introduction to C# code
--2.4 Writing Code for the Hello World Application
--2.5 Label Controls
--2.6 Making Sense of IntelliSense
--2.7 PictureBox Controls
--2.8 Comments, Blank Lines, and Indentation
--2.9 Writing the Code to Close an Application’s Form
--2.10 Dealing with Syntax Errors
+-1.1 Objects <br>
+-1.2 The Program Development Process <br>
+-1.8 Getting Started with Visual Studio <br>
+-2.1 Getting Started with Forms and Controls <br>
+-2.2 Creating the G U I for Your First Visual C# Application <br>
+-2.3 Introduction to C# code <br>
+-2.4 Writing Code for the Hello World Application <br>
+-2.5 Label Controls <br>
+-2.6 Making Sense of IntelliSense <br>
+-2.7 PictureBox Controls <br>
+-2.8 Comments, Blank Lines, and Indentation <br>
+-2.9 Writing the Code to Close an Application’s Form <br>
+-2.10 Dealing with Syntax Errors <br>
 
 <h3?> what is C#? </h3>
 
@@ -40,6 +40,7 @@ Text
 Size
 Font
 
+ <hr>
 
 <h3>Controls</h3>
 
@@ -61,7 +62,7 @@ There are also invisible objects, such as:
 
 A class is code that describes a particular type of object.
 
-<br>
+ <hr>
 
 <h3>.NET Framework </h3>
 
@@ -73,7 +74,7 @@ Controls used in Windows Forms are defined by specialized classes provided by .N
 
 Developers can also create their own classes for special tasks.
 
-<br>
+ <hr>
 
 <h3> Visual Studio</h3>
 
@@ -91,7 +92,7 @@ Important parts of Visual Studio include:
 * Menu Bar
 * Standard Toolbar
 
-<br>
+ <hr>
 
 <h3> Toolbox </h3>
 
@@ -102,7 +103,7 @@ A control can be added by:
 1. Dragging it onto the form.
 2. Double-clicking it.
 
-<br>
+ <hr>
 
 <h3> Project and Solution </h3>
 
@@ -115,7 +116,7 @@ Simple difference:
 * Solution → contains projects
 * Project → contains application files
 
-<br>
+ <hr>
 
 <h3> Windows Forms </h3>
 
@@ -130,7 +131,7 @@ Form
  └── PictureBox
 
 
-<br>
+ <hr>
 
 
 <h3> Properties Window </h3>
@@ -144,7 +145,7 @@ Size = 300, 300
 Name = messageButton
 
 
-<br>
+ <hr>
 
 <h3> C# Code </h3>
 
@@ -157,18 +158,18 @@ C# programs are organized mainly into:
 Example:
 
 namespace HelloWorld
-{
-    public class Student
-    {
-        public void DisplayMessage()
-        {
-            /////////////////
-        }
-    }
-}
+{ <br>
+    public class Student <br>
+    { <br>
+        public void DisplayMessage() <br>
+        { <br>
+            ///////////////// <br>
+        } <br>
+    } <br>
+} <br>
 
 
-<br>
+ <hr>
 
 
 <h3> Event-Driven Programming </h3>
@@ -189,14 +190,14 @@ Action is performed
 
 Example:
 
-private void messageButton_Click(object sender, EventArgs e)
+private void messageButton_Click(object sender, EventArgs e) <br>
+ 
+{ <br>
+    MessageBox.Show("Hello World"); <br>
+} <br>
 
-{
-    MessageBox.Show("Hello World");
-}
 
-
-<br>
+ <hr>
 
 
 <h3> Label </h3>
@@ -210,7 +211,7 @@ answerLabel.Text = "Hello World";
 The = symbol is the assignment operator.
 
 
-<br>
+ <hr>
 
 
 <h3> MessageBox </h3>
@@ -220,7 +221,7 @@ A MessageBox displays a message to the user.
 messageBox.show("hello world").
 
 
-<br>
+ <hr>
 
 
 <h3> IntelliSense </h3>
@@ -234,7 +235,7 @@ It helps programmers:
 * Reduce typing errors.
 
 
-<br>
+ <hr>
 
 
 <h3> PictureBox </h3>
@@ -247,7 +248,7 @@ pictureBox1.Visible = true;
 pictureBox2.Visible = false;
 
 
-<br>
+ <hr>
 
 
 <h3> Comments </h3>
@@ -256,7 +257,7 @@ Comments explain code and are ignored by the compiler.
 
 Single-line comment
 
-// Close the form
+// Close the form 
 
 Multi-line comment
 
@@ -275,8 +276,8 @@ To close the application:
 
 Application.Exit();
 
+ <hr>
 
-<br>
 
 <h3> Syntax Errors </h3>
 
