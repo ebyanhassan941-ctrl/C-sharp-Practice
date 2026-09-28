@@ -61,7 +61,7 @@ There are also invisible objects, such as:
 
 A class is code that describes a particular type of object.
 
-
+<br>
 
 <h3>.NET Framework </h3>
 
@@ -73,7 +73,7 @@ Controls used in Windows Forms are defined by specialized classes provided by .N
 
 Developers can also create their own classes for special tasks.
 
-
+<br>
 
 <h3> Visual Studio</h3>
 
@@ -91,9 +91,9 @@ Important parts of Visual Studio include:
 * Menu Bar
 * Standard Toolbar
 
+<br>
 
-
-<h4> Toolbox </h4>
+<h3> Toolbox </h3>
 
 The Toolbox contains controls that can be added to a Windows Form.
 
@@ -102,9 +102,9 @@ A control can be added by:
 1. Dragging it onto the form.
 2. Double-clicking it.
 
+<br>
 
-
-<h4> Project and Solution </h4>
+<h3> Project and Solution </h3>
 
 A Project contains the files needed to create an application.
 
@@ -115,9 +115,9 @@ Simple difference:
 * Solution → contains projects
 * Project → contains application files
 
+<br>
 
-
-<h4> Windows Forms </h4>
+<h3> Windows Forms </h3>
 
 A Form is the main window of a Windows Forms application.
 
@@ -130,9 +130,10 @@ Form
  └── PictureBox
 
 
+<br>
 
 
-<h4> Properties Window </h4>
+<h3> Properties Window </h3>
 
 The Properties Window is used to change the appearance and behavior of objects.
 
@@ -143,9 +144,9 @@ Size = 300, 300
 Name = messageButton
 
 
+<br>
 
-
-<h4> C# Code </h4>
+<h3> C# Code </h3>
 
 C# programs are organized mainly into:
 
@@ -167,8 +168,10 @@ namespace HelloWorld
 }
 
 
+<br>
 
-<h4> Event-Driven Programming </h4>
+
+<h3> Event-Driven Programming </h3>
 
 Windows Forms applications are event-driven.
 
@@ -193,8 +196,10 @@ private void messageButton_Click(object sender, EventArgs e)
 }
 
 
+<br>
 
-<h4> Label </h4>
+
+<h3> Label </h3>
 
 A Label displays text on a form.
 
@@ -205,18 +210,20 @@ answerLabel.Text = "Hello World";
 The = symbol is the assignment operator.
 
 
+<br>
 
 
-<h4> MessageBox </h4>
+<h3> MessageBox </h3>
 
 A MessageBox displays a message to the user.
 
 messageBox.show("hello world").
 
 
+<br>
 
 
-<h4> IntelliSense </h4>
+<h3> IntelliSense </h3>
 
 IntelliSense is a Visual Studio feature that provides code suggestions while typing.
 
@@ -227,9 +234,10 @@ It helps programmers:
 * Reduce typing errors.
 
 
+<br>
 
 
-<h4> PictureBox </h4>
+<h3> PictureBox </h3>
 
 A PictureBox displays images on a Windows Form.
 
@@ -239,9 +247,10 @@ pictureBox1.Visible = true;
 pictureBox2.Visible = false;
 
 
+<br>
 
 
-<h4> Comments </h4>
+<h3> Comments </h3>
 
 Comments explain code and are ignored by the compiler.
 
@@ -267,9 +276,9 @@ To close the application:
 Application.Exit();
 
 
+<br>
 
-
-<h4> Syntax Errors </h4>
+<h3> Syntax Errors </h3>
 
 A syntax error occurs when C# code does not follow the correct language rules.
 
