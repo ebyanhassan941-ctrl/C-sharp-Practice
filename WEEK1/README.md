@@ -15,6 +15,9 @@
 -2.9 Writing the Code to Close an Application’s Form <br>
 -2.10 Dealing with Syntax Errors <br>
 
+<hr>
+
+<h3> C# </h3>
 <h3?> what is C#? </h3>
 
 C# (pronounce "C-sharp") is modern , general-purpose programming language developed application.
@@ -265,8 +268,10 @@ Multi-line comment
  This is a comment
 */
 
+ <hr>
 
-<h4> Closing a Form </h4>
+ 
+<h3> Closing a Form </h3>
 
 To close the current form:
 
