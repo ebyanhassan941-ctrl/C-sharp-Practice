@@ -19,6 +19,8 @@
 
 C# (pronounce "C-sharp") is modern , general-purpose programming language developed application.
 
+
+
 ## <h4> Objects </h4>
 An object is a program component that contains data and performs operations, Programs use objects to perform specific tasks.
 Most programming languages use object-oriented programming in which a program component is called an “object”
@@ -27,18 +29,17 @@ Properties – data stored in an object
 Methods – the operations an object can perform
 
 ## An object can have:
-
 * Properties – data or characteristics of an object.
 * Methods – operations that an object can perform.
 
 ## Example
-
 A Button can have properties such as:
 
 Name
 Text
 Size
 Font
+
 
 <h4>Controls</h4>
 
@@ -60,6 +61,8 @@ There are also invisible objects, such as:
 
 A class is code that describes a particular type of object.
 
+
+
 <h4>.NET Framework </h4>
 
 .NET is a collection of classes and other code that can be used to create applications for Windows.
@@ -69,6 +72,8 @@ C# is a programming language supported by .NET.
 Controls used in Windows Forms are defined by specialized classes provided by .NET.
 
 Developers can also create their own classes for special tasks.
+
+
 
 <h4> Visual Studio</h4>
 
@@ -85,6 +90,8 @@ Important parts of Visual Studio include:
 * Code Editor
 * Menu Bar
 * Standard Toolbar
+
+
 
 <h4> Toolbox </h4>
 
@@ -124,6 +131,7 @@ Form
 
 
 
+
 <h4> Properties Window </h4>
 
 The Properties Window is used to change the appearance and behavior of objects.
@@ -133,6 +141,7 @@ Examples:
 Text = My Program
 Size = 300, 300
 Name = messageButton
+
 
 
 
@@ -178,6 +187,7 @@ Action is performed
 Example:
 
 private void messageButton_Click(object sender, EventArgs e)
+
 {
     MessageBox.Show("Hello World");
 }
@@ -195,11 +205,15 @@ answerLabel.Text = "Hello World";
 The = symbol is the assignment operator.
 
 
+
+
 <h4> MessageBox </h4>
 
 A MessageBox displays a message to the user.
 
 messageBox.show("hello world").
+
+
 
 
 <h4> IntelliSense </h4>
@@ -213,6 +227,8 @@ It helps programmers:
 * Reduce typing errors.
 
 
+
+
 <h4> PictureBox </h4>
 
 A PictureBox displays images on a Windows Form.
@@ -221,6 +237,8 @@ Example:
 
 pictureBox1.Visible = true;
 pictureBox2.Visible = false;
+
+
 
 
 <h4> Comments </h4>
@@ -247,6 +265,8 @@ this.Close();
 To close the application:
 
 Application.Exit();
+
+
 
 
 <h4> Syntax Errors </h4>
