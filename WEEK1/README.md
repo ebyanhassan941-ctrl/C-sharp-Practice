@@ -41,7 +41,7 @@ Size
 Font
 
 
-<h4>Controls</h4>
+<h3>Controls</h3>
 
 Controls are objects that are visible in a program’s Graphical User Interface (GUI).
 
@@ -63,7 +63,7 @@ A class is code that describes a particular type of object.
 
 
 
-<h4>.NET Framework </h4>
+<h3>.NET Framework </h3>
 
 .NET is a collection of classes and other code that can be used to create applications for Windows.
 
@@ -75,7 +75,7 @@ Developers can also create their own classes for special tasks.
 
 
 
-<h4> Visual Studio</h4>
+<h3> Visual Studio</h3>
 
 Visual Studio is a professional Integrated Development Environment (IDE).
 
