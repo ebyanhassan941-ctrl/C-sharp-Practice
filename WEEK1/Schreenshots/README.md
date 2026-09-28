@@ -31,6 +31,8 @@ private void exitButton_Click(object sender, EventArgs e) <br>
     this.Close(); <br>
 }
 
+![closing](closing.png)
+
 ### 3 how organize C#
 Form1.cs is the C# source code file that contains the code and event handlers for the Form1 Windows Form.
 
@@ -47,3 +49,5 @@ namespace MyApplication <br>
         } <br>
     } <br>
 }
+
+![organizeC#](organizeC#.png)
