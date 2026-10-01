@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\bin\Debug\Assingment2.exe.config
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\bin\Debug\Assingment2.exe
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\bin\Debug\Assingment2.pdb
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\obj\Debug\Assingment2.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\obj\Debug\Assingment2.Form1.resources
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\obj\Debug\Assingment2.Properties.Resources.resources
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\obj\Debug\Assingment2.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\obj\Debug\Assingment2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\obj\Debug\Assingment2.exe
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\obj\Debug\Assingment2.pdb
+C:\Users\hp\Documents\c# programming1\Assingment2\Assingment2\obj\Debug\Assingment2.exe.config
