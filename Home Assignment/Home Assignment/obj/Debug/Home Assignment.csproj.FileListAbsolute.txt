@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\bin\Debug\Home Assignment.exe.config
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\bin\Debug\Home Assignment.exe
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\bin\Debug\Home Assignment.pdb
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\obj\Debug\Home Assignment.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\obj\Debug\Home_Assignment.Form1.resources
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\obj\Debug\Home_Assignment.Properties.Resources.resources
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\obj\Debug\Home Assignment.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\obj\Debug\Home Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\obj\Debug\Home Assignment.exe
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\obj\Debug\Home Assignment.pdb
+C:\Users\hp\Documents\c# programming1\Home Assignment\Home Assignment\obj\Debug\Home Assignment.exe.config
