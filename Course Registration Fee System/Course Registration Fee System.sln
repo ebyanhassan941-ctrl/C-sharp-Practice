@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course Registration Fee System", "Course Registration Fee System\Course Registration Fee System.csproj", "{8ADCDDBE-5883-4216-9B7C-6D0516423C75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vehicle Rental Management System", "vehicle Rental Management System\vehicle Rental Management System.csproj", "{2B2F2033-68C5-4D9F-B702-FBA349D383BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADCDDBE-5883-4216-9B7C-6D0516423C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADCDDBE-5883-4216-9B7C-6D0516423C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADCDDBE-5883-4216-9B7C-6D0516423C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADCDDBE-5883-4216-9B7C-6D0516423C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2F2033-68C5-4D9F-B702-FBA349D383BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2F2033-68C5-4D9F-B702-FBA349D383BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2F2033-68C5-4D9F-B702-FBA349D383BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2F2033-68C5-4D9F-B702-FBA349D383BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326D2BB9-025D-4EE4-A608-6CF2D08917F4}
+	EndGlobalSection
+EndGlobal

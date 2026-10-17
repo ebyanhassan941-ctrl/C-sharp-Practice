@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\bin\Debug\Course Registration Fee System.exe.config
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\bin\Debug\Course Registration Fee System.exe
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\bin\Debug\Course Registration Fee System.pdb
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\obj\Debug\Course Registration Fee System.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\obj\Debug\Course_Registration_Fee_System.Form1.resources
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\obj\Debug\Course_Registration_Fee_System.Properties.Resources.resources
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\obj\Debug\Course Registration Fee System.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\obj\Debug\Course Registration Fee System.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\obj\Debug\Course Registration Fee System.exe
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\obj\Debug\Course Registration Fee System.pdb
+C:\Users\hp\Documents\c# programming1\Course Registration Fee System\Course Registration Fee System\obj\Debug\Course Registration Fee System.exe.config
