@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\bin\Debug\FIiles_Reading_and_Delete.exe.config
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\bin\Debug\FIiles_Reading_and_Delete.exe
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\bin\Debug\FIiles_Reading_and_Delete.pdb
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\obj\Debug\FIiles_Reading_and_Delete.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\obj\Debug\FIiles_Reading_and_Delete.Form1.resources
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\obj\Debug\FIiles_Reading_and_Delete.Properties.Resources.resources
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\obj\Debug\FIiles_Reading_and_Delete.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\obj\Debug\FIiles_Reading_and_Delete.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\obj\Debug\FIiles_Reading_and_Delete.exe
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\obj\Debug\FIiles_Reading_and_Delete.pdb
+C:\Users\hp\Documents\c# programming1\FIiles_Reading_and_Delete\FIiles_Reading_and_Delete\obj\Debug\FIiles_Reading_and_Delete.exe.config
