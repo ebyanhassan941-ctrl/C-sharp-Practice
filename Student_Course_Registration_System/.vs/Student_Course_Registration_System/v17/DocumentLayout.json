@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\c# programming1\\Student_Course_Registration_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156F3CB6-FFC0-4CF5-AA5A-82F797B3CA39}|Student_Course_Registration_System\\Student_Course_Registration_System.csproj|C:\\Users\\hp\\Documents\\c# programming1\\Student_Course_Registration_System\\student_course_registration_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156F3CB6-FFC0-4CF5-AA5A-82F797B3CA39}|Student_Course_Registration_System\\Student_Course_Registration_System.csproj|solutionrelative:student_course_registration_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156F3CB6-FFC0-4CF5-AA5A-82F797B3CA39}|Student_Course_Registration_System\\Student_Course_Registration_System.csproj|c:\\users\\hp\\documents\\c# programming1\\student_course_registration_system\\student_course_registration_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{156F3CB6-FFC0-4CF5-AA5A-82F797B3CA39}|Student_Course_Registration_System\\Student_Course_Registration_System.csproj|solutionrelative:student_course_registration_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\c# programming1\\Student_Course_Registration_System\\Student_Course_Registration_System\\Form1.cs",
+              "RelativeDocumentMoniker": "Student_Course_Registration_System\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\c# programming1\\Student_Course_Registration_System\\Student_Course_Registration_System\\Form1.cs",
+              "RelativeToolTip": "Student_Course_Registration_System\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T10:41:51.876Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\c# programming1\\Student_Course_Registration_System\\Student_Course_Registration_System\\Form1.cs",
+              "RelativeDocumentMoniker": "Student_Course_Registration_System\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\c# programming1\\Student_Course_Registration_System\\Student_Course_Registration_System\\Form1.cs [Design]",
+              "RelativeToolTip": "Student_Course_Registration_System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T10:40:01.02Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
