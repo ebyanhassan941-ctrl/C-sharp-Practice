@@ -1,4 +1,4 @@
-# 🧠 Making Decisions in C#
+# Making Decisions in C#
 
 ### Chapter 3: Decision Structures with Windows Forms
 
@@ -6,17 +6,17 @@
 
 ---
 
-## 📌 About This Project
+##  About This Project
 
 This project demonstrates how a C# program makes decisions using **if**, **if-else**, **nested if**, and **switch** statements, together with **TryParse** for safe user input.
 
 ---
 
-> 💡 Save each screenshot in the `screenshots` folder using the exact file names above, and the images will appear automatically.
+>  Save each screenshot in the `screenshots` folder using the exact file names above, and the images will appear automatically.
 
 ---
 
-## 1️⃣ `if` Statement with TryParse
+## 1️ `if` Statement with TryParse
 
 **Purpose:** Checks that the user entered a valid number before using it, which prevents conversion exceptions.
 
@@ -27,26 +27,26 @@ This project demonstrates how a C# program makes decisions using **if**, **if-el
 - The `out` keyword is required.
 - `TryParse` only checks the *type*. Use an `if` with `&&` to also check that the value is *reasonable* (for example, `hours > 0 && hours <= 168`).
 
-### 📸 Screenshot 1
+### Screenshot 1
 
 ![if TryParse](if_tryparse.png)
 
 ---
 
-## 2️⃣ `if-else` Statement
+## 2️ `if-else` Statement
 
 **Purpose:** Runs one block when the condition is `true` and a different block when it is `false`.
 
 **Syntax:**
 `if (expression) { ... } else { ... }`
 
-### 📸 Screenshot 2
+###  Screenshot 2
 
 ![if else](else_if.png)
 
 ---
 
-## 3️⃣ Nested `if`
+## 3️ Nested `if`
 
 **Purpose:** Tests more than one condition by placing one decision inside another ("one inside another").
 
@@ -55,13 +55,13 @@ This project demonstrates how a C# program makes decisions using **if**, **if-el
 
 **Example idea:** A loan qualifies only if salary is at least 40,000 **and** years on the job is at least 2.
 
-### 📸 Screenshot 3
+###  Screenshot 3
 
 ![nested if](nested_if.png)
 
 ---
 
-## 4️⃣ `switch` Statement
+## 4️ `switch` Statement
 
 **Purpose:** Lets the value of a variable or expression choose which path the program takes. It is an alternative to a long `if-else-if` chain that tests the same variable.
 
@@ -77,7 +77,7 @@ This project demonstrates how a C# program makes decisions using **if**, **if-el
 
 ---
 
-## 📊 Quick Comparison
+## Quick Comparison
 
 | Statement | Best used when |
 |---|---|
@@ -89,12 +89,12 @@ This project demonstrates how a C# program makes decisions using **if**, **if-el
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open the project in **Visual Studio**.
-2. Press **F5** (or click ▶ Start).
+2. Press **F5** (or click  Start).
 3. Enter values in the form and click the button to see the result.
 
 ---
 
-*Made with 💙 using C# and Windows Forms.*
+*Made with using C# and Windows Forms.*
