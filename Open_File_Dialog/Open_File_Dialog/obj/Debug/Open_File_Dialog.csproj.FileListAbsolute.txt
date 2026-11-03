@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\bin\Debug\Open_File_Dialog.exe.config
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\bin\Debug\Open_File_Dialog.exe
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\bin\Debug\Open_File_Dialog.pdb
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\obj\Debug\Open_File_Dialog.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\obj\Debug\Open_File_Dialog.Form1.resources
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\obj\Debug\Open_File_Dialog.Properties.Resources.resources
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\obj\Debug\Open_File_Dialog.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\obj\Debug\Open_File_Dialog.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\obj\Debug\Open_File_Dialog.exe
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\obj\Debug\Open_File_Dialog.pdb
+C:\Users\hp\Documents\c# programming1\Open_File_Dialog\Open_File_Dialog\obj\Debug\Open_File_Dialog.exe.config
