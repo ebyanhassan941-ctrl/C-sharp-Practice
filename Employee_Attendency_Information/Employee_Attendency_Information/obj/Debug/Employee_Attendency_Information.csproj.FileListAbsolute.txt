@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\bin\Debug\Employee_Attendency_Information.exe.config
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\bin\Debug\Employee_Attendency_Information.exe
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\bin\Debug\Employee_Attendency_Information.pdb
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\obj\Debug\Employee_Attendency_Information.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\obj\Debug\Employee_Attendency_Information.Form1.resources
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\obj\Debug\Employee_Attendency_Information.Properties.Resources.resources
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\obj\Debug\Employee_Attendency_Information.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\obj\Debug\Employee_Attendency_Information.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\obj\Debug\Employee_Attendency_Information.exe
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\obj\Debug\Employee_Attendency_Information.pdb
+C:\Users\hp\Documents\c# programming1\Employee_Attendency_Information\Employee_Attendency_Information\obj\Debug\Employee_Attendency_Information.exe.config
